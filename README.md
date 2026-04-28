@@ -1,4 +1,11 @@
+# 💫 Hi 👋, I'm  Richa Chourasia
+**A passionate Full Stack Developer**
 
+
+- 🌱 **I’m currently learning:** Machine Learning and Deep Learning
+- 📫 **How to reach me:** chourasiaricha79@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/richa-chourasia-a7b1442a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chourasiaricha79@gmail.com) 
 
